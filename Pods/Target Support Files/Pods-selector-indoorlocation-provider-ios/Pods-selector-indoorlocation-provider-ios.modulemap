@@ -1,6 +1,0 @@
-framework module Pods_selector_indoorlocation_provider_ios {
-  umbrella header "Pods-selector-indoorlocation-provider-ios-umbrella.h"
-
-  export *
-  module * { export * }
-}
